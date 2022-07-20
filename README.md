@@ -1,16 +1,22 @@
-# blog_app
+# article-list
+How to Run 
 
-A new Flutter project.
+**Step 1:**
 
-## Getting Started
+Download or clone this repository.
 
-This project is a starting point for a Flutter application.
+**Step 2:**
 
-A few resources to get you started if this is your first Flutter project:
+Open IDE, launch android emulator or connect device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Step 3:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to project root and execute the following commands in console : 
+
+```
+flutter pub get
+flutter run
+```
+
+> **NOTE** Authorization not working on IOS. The application was developed on windows
+
